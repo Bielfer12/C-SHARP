@@ -1,0 +1,14 @@
+C:\gabriel\EntradaDados\EntradaDados\bin\Debug\net8.0\EntradaDados.exe
+C:\gabriel\EntradaDados\EntradaDados\bin\Debug\net8.0\EntradaDados.deps.json
+C:\gabriel\EntradaDados\EntradaDados\bin\Debug\net8.0\EntradaDados.runtimeconfig.json
+C:\gabriel\EntradaDados\EntradaDados\bin\Debug\net8.0\EntradaDados.dll
+C:\gabriel\EntradaDados\EntradaDados\bin\Debug\net8.0\EntradaDados.pdb
+C:\gabriel\EntradaDados\EntradaDados\obj\Debug\net8.0\EntradaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\gabriel\EntradaDados\EntradaDados\obj\Debug\net8.0\EntradaDados.AssemblyInfoInputs.cache
+C:\gabriel\EntradaDados\EntradaDados\obj\Debug\net8.0\EntradaDados.AssemblyInfo.cs
+C:\gabriel\EntradaDados\EntradaDados\obj\Debug\net8.0\EntradaDados.csproj.CoreCompileInputs.cache
+C:\gabriel\EntradaDados\EntradaDados\obj\Debug\net8.0\EntradaDados.dll
+C:\gabriel\EntradaDados\EntradaDados\obj\Debug\net8.0\refint\EntradaDados.dll
+C:\gabriel\EntradaDados\EntradaDados\obj\Debug\net8.0\EntradaDados.pdb
+C:\gabriel\EntradaDados\EntradaDados\obj\Debug\net8.0\EntradaDados.genruntimeconfig.cache
+C:\gabriel\EntradaDados\EntradaDados\obj\Debug\net8.0\ref\EntradaDados.dll

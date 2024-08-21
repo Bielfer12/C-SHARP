@@ -1,0 +1,14 @@
+C:\gabriel\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.exe
+C:\gabriel\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.deps.json
+C:\gabriel\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.runtimeconfig.json
+C:\gabriel\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.dll
+C:\gabriel\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.pdb
+C:\gabriel\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\gabriel\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\gabriel\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.AssemblyInfo.cs
+C:\gabriel\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\gabriel\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.dll
+C:\gabriel\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\refint\OperadoresAritmeticos.dll
+C:\gabriel\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.pdb
+C:\gabriel\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.genruntimeconfig.cache
+C:\gabriel\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\ref\OperadoresAritmeticos.dll

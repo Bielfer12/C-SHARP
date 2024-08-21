@@ -1,0 +1,14 @@
+C:\gabriel\course\course\bin\Debug\net8.0\course.exe
+C:\gabriel\course\course\bin\Debug\net8.0\course.deps.json
+C:\gabriel\course\course\bin\Debug\net8.0\course.runtimeconfig.json
+C:\gabriel\course\course\bin\Debug\net8.0\course.dll
+C:\gabriel\course\course\bin\Debug\net8.0\course.pdb
+C:\gabriel\course\course\obj\Debug\net8.0\course.GeneratedMSBuildEditorConfig.editorconfig
+C:\gabriel\course\course\obj\Debug\net8.0\course.AssemblyInfoInputs.cache
+C:\gabriel\course\course\obj\Debug\net8.0\course.AssemblyInfo.cs
+C:\gabriel\course\course\obj\Debug\net8.0\course.csproj.CoreCompileInputs.cache
+C:\gabriel\course\course\obj\Debug\net8.0\course.dll
+C:\gabriel\course\course\obj\Debug\net8.0\refint\course.dll
+C:\gabriel\course\course\obj\Debug\net8.0\course.pdb
+C:\gabriel\course\course\obj\Debug\net8.0\course.genruntimeconfig.cache
+C:\gabriel\course\course\obj\Debug\net8.0\ref\course.dll
